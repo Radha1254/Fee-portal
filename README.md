@@ -2,7 +2,6 @@
 
 A secure and scalable full-stack Fees Management System developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application provides secure authentication, user-specific authorization, payment management, and fee tracking through an interactive dashboard.
 
----
 
 ## 🚀 Features
 
